@@ -1,0 +1,44 @@
+.song {
+	font-family: sans-serif;
+	font-size: 16px;
+	margin: 10px;
+	white-space: break-spaces;
+}
+
+#serialized {
+	font-family: sans-serif;
+}
+
+h1,h3 {
+	font-family: sans-serif;
+}
+
+.setlists {
+	margin-top: 5%;
+	margin-bottom: 5%;
+	display: flex;
+	justify-content: center;
+	min-height: 80%
+
+}
+
+.title {
+	font-size: 24px;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+input,select {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    display: inline-block;
+    border: 1px solid #E0E0E0;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
